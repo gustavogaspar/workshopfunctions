@@ -108,4 +108,6 @@ Agora que temos o fluxo criado, podemos testar sua funcionalidade, para isso abr
 
 8. Não se preocupe caso nenhum item tenha sido encontrado, este processo pode levar algum tempo visto que é a primeira execução da função. Aguarde alguns segundos e tente  carregar as mensagens novamente se for necessário.
 
+![](./IMG/017-LAB3.PNG)
+
 [<--------RETORNAR](../README.md)
