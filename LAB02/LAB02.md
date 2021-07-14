@@ -98,7 +98,7 @@
 
    $ fn invoke [APP-NAME] final-workshop
 
-
+24. O Retorno esperado é: **{"message":"No event"}**
 
 [<--------RETORNAR](../README.md)
 
