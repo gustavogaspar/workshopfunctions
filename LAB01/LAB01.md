@@ -81,6 +81,7 @@ Nesse laboratório prepararemos a infraestrutura base do workshop, onde criaremo
 - Tenancy_ocid: (**Manter valor apresentado**)
 - Compartment_id: Preencha com a informação de **OCID** coletada no passo **11**
 - Compartment_name: Preencha com a informação de **Nome** coletada no passo **11**
+- Region_key: Este campo deve ser preenchido de acordo com a chave da sua **região em letras minúsculas**. Para saber a chave referente a sua região utilize a coluna de **Region Key**, na lista de regiões presentes no link: [https://docs.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm).
 19. Clique em **Próximo** (Next)
 20. Selecione a checkbox **Run Apply** e clique em **Criar**
 
