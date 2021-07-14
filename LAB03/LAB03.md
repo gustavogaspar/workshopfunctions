@@ -40,7 +40,7 @@ Para essa tarefa utilizaremos os seguintes recursos:
 
 #### Testando o funcionamento do fluxo
 
-Agora que temos o fluxo criado, podemos testar sua funcionalidade, para isso abriremos uma nova aba no navegador, onde acessaremos a nossa stream, e na nossa aba principar iremos fazer o teste de criação de um arquivo **.txt** em nosso bucket.
+Agora que temos o fluxo criado, podemos testar sua funcionalidade, para isso abriremos uma nova aba no navegador, onde acessaremos a nossa stream, e na nossa aba principal iremos fazer o teste de criação de um arquivo **.txt** em nosso bucket.
 
 ##### Nova Aba
 1. Acesse a console da cloud: [https://www.oracle.com/cloud/sign-in.html](https://www.oracle.com/cloud/sign-in.html)

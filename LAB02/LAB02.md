@@ -89,12 +89,12 @@
 
     $ cd events-function
 
-22. Execute o comando de deploy, substituindo a informação de **[APP-NAME]** pelo **nome da sua aplicação criada no passo 11 deste laboratório**. (Você pode utilizar o comando apresentado no passo 10 da guia de Conceitos Basicos (Getting Started)
+22. Execute o comando de deploy, substituindo a informação de **[APP-NAME]** pelo **nome da sua aplicação criada no passo 11 deste laboratório**. (Você pode utilizar o comando apresentado no passo 10 da guia de Conceitos Basicos (Getting Started). _Esse processo pode levar bastante tempo_
 
    $  fn -v deploy --app [APP-NAME]
 
 
-23. Execute o comando abaixo, para chamar a função e validar se ela foi criada corretamente:
+23. Execute o comando abaixo, para chamar a função e validar se ela foi criada corretamente: 
 
    $ fn invoke [APP-NAME] final-workshop
 
